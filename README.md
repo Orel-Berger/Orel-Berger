@@ -1,7 +1,7 @@
 <!-- Title -->
 
 <h1 align="center">Hey <img width="32px" height="32px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>,I'm Orel Berger Welcome to my profile!</h1>
-<h3 align="center">A Full Stack Web developer and Designer</h3>
+<h3 align="center">A Full Stack Web developer</h3>
 
 ### <p align="center"> Programming enthusiast with an interest in Software development. </p>
 
