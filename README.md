@@ -1,4 +1,3 @@
-
 <!-- Title -->
 <h2 align="center" >Hey, I'm Orel Berger Welcome to my profile!</h2>
 
@@ -13,12 +12,12 @@
 
 <div align="center">
   <img height="180em" width="410em" src="https://streak-stats.demolab.com?user=RoiShamir1&theme=cobalt&hide_border=true&border_radius=0&fire=0079FA&stroke=0079FA&sideLabels=0079FA&background=193549" alt="streaks graph"  />
-
+  
   <a href="https://github.com/Roishamir1">
     <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RoiShamir1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true&border_radius=0" alt="github- stats"/>
   </a>
   </div>
-
+  
   <img src="https://github-profile-trophy.vercel.app/?username=Lashaka&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
 <img  src="Icons/borderseperator.gif">
@@ -27,7 +26,7 @@
 <!-- Links -->
 ### <p align="center"> My Links </p>
 <div align="center">
-
+  
 <a href="https://www.linkedin.com/in/orel-berger/" target="blank"><img align="center" src="Icons/Social/LinkedIn.png" width="50" />LinkedIn</a>
 </div>
 
@@ -46,10 +45,10 @@
 <!-- FrontEnd -->
 <a target="blank"><img src="Icons/JavaScript.svg" width="50" />JavaScript</a>
 <a target="blank"><img src="Icons/HTML.svg" width="50" />HTML</a>
-
+      
 <a target="blank"><img src="Icons/CSS.svg" width="50" />CSS</a>
 <a target="blank"><img src="Icons/Bootstrap.svg" width="50" />Bootstrap</a>
-
+      
 <a target="blank"><img src="Icons/TypeScript.svg" width="50" />Typescript</a>
 <a target="blank"><img src="Icons/Angular-Dark.svg" width="50" />Angular</a>
 <a target="blank"><img src="Icons/React-icon.svg.png" width="50" />React</a>
@@ -58,10 +57,10 @@
  <!-- BackEnd -->
 <a target="blank"><img src="Icons/Python-Dark.svg" width="50" />Python</a>
 <a target="blank"><img src="Icons/CS.svg" width="50" />CSharp</a>
-
+      
 <a target="blank"><img src="Icons/ASP.NET.avif" width="50" />ASP.NET</a>
 <a target="blank"><img src="Icons/SQL.png" width="50" />SQL</a>
-
+      
 <a target="blank"><img src="Icons/NodeJS-Dark.svg" width="50" />Node.js</a>
-
+  
 </table>
