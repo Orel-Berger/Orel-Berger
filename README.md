@@ -1,6 +1,6 @@
 
 <!-- Title -->
-<h2 align="center" >Hey, I'm Roi Shamir Welcome to my profile!</h2>
+<h2 align="center" >Hey, I'm Orel Berger Welcome to my profile!</h2>
 
 ### <p align="center"> Programming enthusiast with an interest in Software development. </p>
 
